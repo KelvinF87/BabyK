@@ -11,6 +11,7 @@ const dataActividades = [
     description: "Descripción de la actividad 1",
     image:
       "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+      rating: 3
   },
   {
     id: 2,
@@ -18,6 +19,7 @@ const dataActividades = [
     description: "Descripción de la actividad 2",
     image:
       "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+      rating: 1
   },
   {
     id: 3,
@@ -25,6 +27,7 @@ const dataActividades = [
     description: "Descripción de la actividad 3",
     image:
       "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+      rating: 4
   },
 ];
 const dataCB = [
@@ -34,6 +37,7 @@ const dataCB = [
     description: "Servicio de guardería en HORARIO de MAÑANA y de TARDE.",
     image:
       "https://arucasmola.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-08-16-at-20.06.39-1.jpeg",
+      rating: 5
   },
 
 ];
