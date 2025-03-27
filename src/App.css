@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.sombra-texto {
+  text-shadow: 0 0 2px #b3a7a7, 0 0 10px #000, 0 0 0px #695e5e;
+}
